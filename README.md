@@ -24,7 +24,7 @@
 
 
 ## 预览
-<div align=center><img src="https://github.com/bjc5233/batch-play-chat-history/raw/master/resources/demo.png"/></div>
+<div align=center><img height="359" width="334" src="https://github.com/bjc5233/batch-play-chat-history/raw/master/resources/demo.png"/></div>  
 
----
-<div align=center><img src="https://github.com/bjc5233/batch-play-chat-history/raw/master/resources/demo.gif"/></div>
+
+<div align=center><img height="334" width="311" src="https://github.com/bjc5233/batch-play-chat-history/raw/master/resources/demo.gif"/></div>
